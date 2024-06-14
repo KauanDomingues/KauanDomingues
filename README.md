@@ -1,16 +1,15 @@
-## Hi there 👋
+## Good Morning! 🌻
 
-<!--
-**KauanDomingues/KauanDomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's _Kauan Domingues_
 
-Here are some ideas to get you started:
+-I'm a high-school student;
+-I'm training to a competition in _São Paulo_, SENAI _São Paulo Skills_ #53Cloud Computing (AWS);
+-I'm using this account to an actuall school activity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can contact me using my e-mail or through my instagram📌
+
+kauandomingues931@gmail.com
+
+@kauanvd0
+
+🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
